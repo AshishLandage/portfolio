@@ -6,7 +6,7 @@
      <div style={{display:'flex',background:"black",color:"white",
         justifyContent:"space-between",
         alignItems:'center',
-        borderRadius:"10px",
+        borderRadius:"11px",
         alignItems:"center",
         width:"30%"
       }} >
